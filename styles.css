@@ -1,0 +1,23 @@
+div {
+  color: magenta;
+  background-color: pink;
+  padding:20px;
+  margin: 20px;
+  font-family: arial, sans-serif;
+  font-size: 20px;
+  border: 3px solid blue;
+}
+
+table {
+  text-align: center;
+  border : 3px dotted red;
+  text-font: arial;
+  text-size: 50px;
+  background-color : red;
+}
+
+th, td {
+  border: 1px solid black;
+  border-color: collapse;
+  padding: 2px;
+}
